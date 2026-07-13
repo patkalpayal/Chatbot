@@ -1,0 +1,6 @@
+{
+  "name": "AI FAQ Chatbot",
+  "description": "An AI-powered chatbot with 30 college admission FAQs and a smart conversational interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
